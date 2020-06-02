@@ -1,10 +1,6 @@
 {
-  "badges": [
-    {
-      "schemaVersion": 1,
-      "label": "coverage",
-      "color": "green",
-      "message": "84%"
-    }
-  ]
+  "schemaVersion": 1,
+  "label": "coverage",
+  "color": "green",
+  "message": "84%"
 }
